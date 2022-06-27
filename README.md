@@ -1,3 +1,3 @@
 # wcastatistics-ticino
 
-Statistics about ticino from WCA
+Statistics about Ticino from WCA
